@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🧑‍💻 Sobre mim:
 
-<!--
-**AllanJustino/AllanJustino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá, eu sou Allan Justino do Brasil!
 
-Here are some ideas to get you started:
+💼 Atuo como Analista de Sistemas na área de Planos de Saúde, com experiência em análise de dados, desenvolvimento e criação de indicadores estratégicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estou sempre buscando evoluir! Tenho interesse em Ciência de Dados, Python, Desenvolvimento Web (Vue.js, Laravel), Mobile e criação de dashboards com Power BI.
+
+🚀 Minhas metas incluem alcançar posições de liderança, fortalecer minha atuação em análise de sistemas e dados, além de construir um portfólio técnico sólido.
+
+📫 Você pode entrar em contato comigo pelo e-mail: allan_holmes@hotmail.com ou me adicionar no LinkedIn e GitHub!
+
+## 🛠️ Tecnologias e Ferramentas:
+
+- Linguagens: Python, JavaScript, SQL
+- Frontend: Vue.js, HTML, CSS
+- Backend: Laravel, Oracle
+- BI/Data: Power BI, Análise de Dados, Indicadores Estratégicos
+- Ferramentas: Visual Studio Code, SQLTools
+
+Vamos nos conectar? 🚀
+
